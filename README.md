@@ -33,11 +33,11 @@ pip install pandas numpy scikit-learn matplotlib
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone [https://github.com/your-repo-url.git](https://github.com/yagcib/Pusula_Bayram_YAGCI)
-   cd your-repo-directory
+   git clone https://github.com/yagcib/Pusula_Bayram_YAGCI.git
+   cd 
    ```
 
-2. Ensure that the dataset `side_effect_data.xlsx` is located in the same directory as `main.py`.
+2. Ensure that the dataset `side_effect_data 1.xlsx` is located in the same directory as `main.py`.
 
 3. Run the analysis script:
 

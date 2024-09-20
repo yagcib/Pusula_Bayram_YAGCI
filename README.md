@@ -33,7 +33,7 @@ pip install pandas numpy scikit-learn matplotlib
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone [https://github.com/your-repo-url.git](https://github.com/yagcib/Pusula_Bayram_YAGCI)
    cd your-repo-directory
    ```
 
